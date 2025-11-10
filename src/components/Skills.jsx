@@ -162,10 +162,10 @@ const Skills = () => {
         onRequestClose={closeModal}
         style={customStyles}
       >
-        <div className="flex items-center gap-2">
+        {/* <div className="flex items-center gap-2">
           <img className="h-10" src={selectSkill?.logo} alt={selectSkill?.name} />
           <h6>{selectSkill?.name}</h6>
-        </div>
+        </div> */}
         <br />
         {/* Affichage de la description de la compétence sélectionnée */}
         <p className="px-4 font-Poppins sm:text-sm text-xs !leading-7">
@@ -203,13 +203,13 @@ const Skills = () => {
                relative group w-full flex items-center
                 gap-5 p-5 max-w-sm rounded-md border-2 border-slate-200"
             >
-              <div>
+              {/* <div>
                 <img
-                  src={skill.logo}
+                  // src={skill.logo}
                   alt={skill.name}
                   className="w-10 group-hover:scale-125 duration-200"
                 />
-              </div>
+              </div> */}
               <div>
                 <h6>{skill.name}</h6>
                 <p className="italic">{skill.para}</p>

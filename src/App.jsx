@@ -37,12 +37,12 @@ const App = () => {
   <p>
     © Tous droits réservés 2024 -{' '}
     <a
-      href="https://ngt.cm"
+      href=""
       target="_blank"
       rel="noopener noreferrer"
       className="footer-link"
     >
-      NGT
+      DIGITALWARE
     </a>
   </p>
 </footer>
