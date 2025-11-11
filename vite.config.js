@@ -21,6 +21,8 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
+    base: "/Mon-porfolio/", // 👈 même nom que ton repo GitHub
+
   server: {
     hmr: {
       overlay: true, // Active une superposition pour les erreurs.
