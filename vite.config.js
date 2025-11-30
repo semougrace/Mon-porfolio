@@ -1,40 +1,18 @@
-// import { defineConfig } from 'vite'
-// import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
 
-// // // https://vitejs.dev/config/
-// // export default defineConfig({
-// //   plugins: [react()]
-// // })
+// // https://vitejs.dev/config/
+// export default defineConfig({
+//   plugins: [react()]
+// })
 
-// export default {
-//   server: {
-//     hmr: {
-//       overlay: true, // Montre les erreurs dans une superposition.
-//     },
-//   },
-// };
-
-
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
-
-// https://vitejs.dev/config/
-export default defineConfig({
+export default {
   plugins: [react()],
-    base: "/Mon-porfolio/", // 👈 même nom que ton repo GitHub
-
   server: {
     hmr: {
-      overlay: true, // Active une superposition pour les erreurs.
+      overlay: true, // Montre les erreurs dans une superposition.
     },
   },
-  define: {
-    'process.env': {}, // Résout les problèmes potentiels liés à 'process' dans React.
-  },
-  resolve: {
-    alias: {
-      '@': '/src', // Permet d'utiliser @ comme alias pour /src.
-    },
-  },
-});
+};
+
 

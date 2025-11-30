@@ -15,31 +15,31 @@ import Hero_person from "./assets/images/Hero/person.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import project1 from "./assets/images/projects/img1.jpeg";
-import project2 from "./assets/images/projects/img2.jpeg";
-import project3 from "./assets/images/projects/img3.jpeg";
-import project4 from "./assets/images/projects/img4.png";
-import project5 from "./assets/images/projects/img5.png";
-import project6 from "./assets/images/projects/img6.png";
-import project7 from "./assets/images/projects/img7.png";
-import project8 from "./assets/images/projects/img8.png";
-import project9 from "./assets/images/projects/img9.png";
-import project10 from "./assets/images/projects/img10.png";
-import project11 from "./assets/images/projects/img11.png";
-import project12 from "./assets/images/projects/img12.png";
-import project13 from "./assets/images/projects/img13.png";
-import project14 from "./assets/images/projects/img14.png";
-import project15 from "./assets/images/projects/img15.png";
-import project16 from "./assets/images/projects/img16.png";
-import project17 from "./assets/images/projects/img17.png";
-import project18 from "./assets/images/projects/img18.png";
-import project19 from "./assets/images/projects/img19.png";
-import project20 from "./assets/images/projects/img20.png";
-import project21 from "./assets/images/projects/img21.png";
+import project1 from "./assets/images/Projects/img1.jpeg";
+import project2 from "./assets/images/Projects/img2.jpeg";
+import project3 from "./assets/images/Projects/img3.jpeg";
+import project4 from "./assets/images/Projects/img4.png";
+import project5 from "./assets/images/Projects/img5.png";
+import project6 from "./assets/images/Projects/img6.png";
+import project7 from "./assets/images/Projects/img7.png";
+import project8 from "./assets/images/Projects/img8.png";
+import project9 from "./assets/images/Projects/img9.png";
+import project10 from "./assets/images/Projects/img10.png";
+import project11 from "./assets/images/Projects/img11.png";
+import project12 from "./assets/images/Projects/img12.png";
+import project13 from "./assets/images/Projects/img13.png";
+import project14 from "./assets/images/Projects/img14.png";
+import project15 from "./assets/images/Projects/img15.png";
+import project16 from "./assets/images/Projects/img16.png";
+import project17 from "./assets/images/Projects/img17.png";
+import project18 from "./assets/images/Projects/img18.png";
+import project19 from "./assets/images/Projects/img19.png";
+import project20 from "./assets/images/Projects/img20.png";
+import project21 from "./assets/images/Projects/img21.png";
 
 
 
-import person_project from "./assets/images/projects/person.png";
+import person_project from "./assets/images/Projects/person.png";
 
 import avatar from "./assets/images/Testimonials/avatar.jpg";
 import avatar2 from "./assets/images/Testimonials/avatar2.png";
